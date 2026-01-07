@@ -1,0 +1,14 @@
+js
+Export défaut function
+handler(req,res){
+if(req,method!_ _"post"){ return
+res,status(405).json({message "method non autorisé"});
+}
+const{amount,method}_req.body;
+if(!amount||amount<-0){return 
+res.status(400).json({message : montant 'invalide'})
+                      }
+||Test(simulation)
+return.res.status(200).json({message ; Dépôt de ${amount}via${méthod} rn attente de validation 
+});
+}
