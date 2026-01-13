@@ -1,0 +1,3 @@
+HOT_wallet_ADDRESS
+Hot_wallet_private_key
+Trongrid_Api_key
