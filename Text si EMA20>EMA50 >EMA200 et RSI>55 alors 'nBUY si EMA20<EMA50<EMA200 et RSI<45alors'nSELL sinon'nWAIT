@@ -1,0 +1,19 @@
+jsx
+function Galaxy signal({signal}){
+const color-
+signal==="BUY"?green":
+signal==="SELL"?"red":
+"gray;
+<div style-{{
+padding"10px"
+bacgroud:"#020617",
+color
+fontweight:"bold"
+textAlign:"center"
+borderRadins:"8px"
+marginBotton:"8px"
+}}>
+Galaxy IA dignal:{signal}
+<div>
+);
+}
