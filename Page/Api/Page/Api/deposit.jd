@@ -1,0 +1,12 @@
+js
+  exportdefaut function
+  handler(req,res){
+  if(req,method!_ _"post"){return
+    res status(405).json({message :"methed non autorisée"});
+                          }
+  const{amount,method}_req.body;if(!amount||amount<_0){returnres.status(400).json({message :" montant invalide
+                                                                                  });
+                                                       ||Test(simulation)
+                                                         return res.status(200).json({message : dépôt de${amount}via${méthod} en attente de validation 
+                                                                                     });
+                                                      }
