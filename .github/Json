@@ -1,0 +1,10 @@
+Json
+{
+"redirection";[
+{
+"source"/"
+"destination";"/chart",
+"permanent":true
+}
+]
+}
